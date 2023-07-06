@@ -4,7 +4,7 @@
   "description": "webchat",
   "main": "index.html",
   "scripts": {
-    "test": "npm run build"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
