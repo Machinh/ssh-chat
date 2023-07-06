@@ -1,0 +1,22 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "webchat",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Machinh/ssh-chat.git#main"
+  },
+  "keywords": [
+    "sem"
+  ],
+  "author": "machine",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Machinh/ssh-chat/issues"
+  },
+  "homepage": "https://github.com/Machinh/ssh-chat/tree/main#readme"
+}
